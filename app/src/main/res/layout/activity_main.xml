@@ -23,7 +23,7 @@
         app:layout_constraintVertical_bias="0.866" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/rollNumber"
         android:layout_width="282dp"
         android:layout_height="57dp"
         android:ems="10"
@@ -49,7 +49,6 @@
         android:text="Welcome to Lugares"
         android:textAlignment="center"
         android:textColor="#FF5722"
-        app:layout_constraintBottom_toTopOf="@+id/editTextTextEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
